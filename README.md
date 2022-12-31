@@ -3,7 +3,7 @@ Prediction of Diseases in Corn Plants
 
 # Research Paper
 
-Other modern techniques to detect the plant disease - [Research Paper]()
+Other modern techniques to detect the plant disease - [Research Paper](https://github.com/SriDharshana/Corn-disease-detection/blob/main/plant_disease_detection_research_paper.docx)
 
 # Abstract
 Diseases affecting in corn are common nowadays . Suitable precaution need to be taken for preventing disease affecting the corn plants . Diagnosis of diseases by humans is time consuming and expensive . So using deep learning, diseases affected in corn plants can be detected and necessary reemdies can be taken soon. Leaf of corn plants is categorised as Blight disease/ Comman Rust disease/Gray Leaf Spot disease/Healthy Corn Plant. Model is built using convolutional layered architecture.
