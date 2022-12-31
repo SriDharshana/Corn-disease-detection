@@ -31,6 +31,7 @@ Diseases affecting in corn are common nowadays . Suitable precaution need to be 
 
 # Datasets
 Leaf of various corn plants are taken as samples to classify them into 4 classes mentioned below:
+
 _1.Blight disease_
 
 _2.Gray leaf spot disease_
